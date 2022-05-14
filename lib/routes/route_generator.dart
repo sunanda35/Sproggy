@@ -5,8 +5,6 @@ import 'package:sproggy/pages/second_page.dart';
 import '../pages/home_page.dart';
 
 class RouteGenerator {
-
-
   static Route<dynamic> generateRoute(RouteSettings settings) {
     final args = settings.arguments;
     switch (settings.name) {
