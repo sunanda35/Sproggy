@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class Second extends StatelessWidget {
   final String data;
-  Second({
+  const Second({
     Key? key,
     required this.data,
   }) : super(key: key);

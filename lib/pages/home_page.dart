@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
-  HomePage({ Key? key }) : super(key: key);
-
+  const HomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -13,10 +12,11 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: GestureDetector(
           onTap: () {
-            Navigator.pushNamed(context, '/login', arguments:"fucking motherfucker");
+            Navigator.pushNamed(context, '/login',
+                arguments: "fucking motherfucker");
           },
           child: Text('Home Page'),
-      ),
+        ),
       ),
     );
   }

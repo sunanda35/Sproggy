@@ -12,12 +12,12 @@ class RouteGenerator {
         return MaterialPageRoute(builder: (_) => HomePage());
       case '/login':
         if (args is String) {
-        return MaterialPageRoute(builder: (_) => Second(data: args));
+          return MaterialPageRoute(builder: (_) => Second(data: args));
         } else {
           return MaterialPageRoute(builder: (_) => ErrorPage());
         }
       default:
-          return MaterialPageRoute(builder: (_) => ErrorPage());
+        return MaterialPageRoute(builder: (_) => ErrorPage());
     }
   }
 }
