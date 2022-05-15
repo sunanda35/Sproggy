@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Problem:-
+    Learning new language is so hard. To learn new language, you have to talk to someone to make your fluency.
+    So you need to talk to english with someone, but you can't do it cuz ur society.
+    
+## Idea:-
+    - Auto calling feature by selected wished language based public.
+    - Fluent on language register and earn money by talking with people.
+    Comes from normal people who want to talk to fluent speakers.
 
-This project is a starting point for a Flutter application.
+# Earning Source:-
+    - advertise / membership without ad
+    - commision when people talk with professional, we deduct 30% from them.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
