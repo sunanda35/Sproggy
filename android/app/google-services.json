@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75927418450",
+    "project_id": "sproggy-2e526",
+    "storage_bucket": "sproggy-2e526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75927418450:android:42a4d2fbf0ac2a78b7518b",
+        "android_client_info": {
+          "package_name": "com.example.sproggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75927418450-fbmgih9ro4r1n3ekc572gbvcohd2jio1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xc94xHc4mNmteO47qmdS1tTLw_S_U60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75927418450-fbmgih9ro4r1n3ekc572gbvcohd2jio1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
