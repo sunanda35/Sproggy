@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sproggy/error/error_page.dart';
-import 'package:sproggy/pages/second_page.dart';
-
-import '../pages/home_page.dart';
+import '../Error/error_page.dart';
+import '../Pages/second_page.dart';
+import '../Pages/home_page.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {

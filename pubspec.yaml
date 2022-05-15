@@ -40,6 +40,11 @@ dependencies:
   flash: ^2.0.3+2  #show snackbar, toast, dialog custom
   cached_network_image: ^3.2.0 #store image as cache to fast load
   pull_to_refresh: ^2.0.0  # customize pull refresh
+  firebase_core: ^1.17.0
+  firebase_auth: ^3.3.18
+  cloud_firestore: ^3.1.15
+  firebase_database: ^9.0.14
+  firebase_storage: ^10.2.16
 
 dev_dependencies:
   flutter_test:
