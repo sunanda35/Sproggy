@@ -13,7 +13,7 @@ const Port = {
   "firebaseRealtime": 9000
 };
 
-Future<void> _connectToFirebaseEmulator() async {
+Future<void> _connectToFirebaseFirestore() async {
   FirebaseFirestore.instance.settings = Settings(
     host: '$localHostString:$Port["fireStore"]',
     sslEnabled: false,
