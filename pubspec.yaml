@@ -34,6 +34,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  sizer: ^2.0.15  # make your app responsive
+  get: ^4.6.3   #GetX for state Management
+  dio: ^4.0.6   #dio for http request
+  flash: ^2.0.3+2  #show snackbar, toast, dialog custom
+  cached_network_image: ^3.2.0 #store image as cache to fast load
+  pull_to_refresh: ^2.0.0  # customize pull refresh
 
 dev_dependencies:
   flutter_test:
